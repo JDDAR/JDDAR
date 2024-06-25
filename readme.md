@@ -8,6 +8,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+### Technologies
+
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+
+
 ### 👋 Hi, I'm JDDAR
 
 I’m a dedicated Front-End Developer currently studying Software Analysis and Development. My passion for coding is driven by a deep appreciation for both the artistic and logical aspects of programming. I strive to blend creativity and functionality in every project I undertake.
