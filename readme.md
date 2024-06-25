@@ -42,16 +42,15 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-I’m a dedicated Front-End Developer currently studying Software Analysis and Development. My passion for coding is driven by a deep appreciation for both the artistic and logical aspects of programming. I strive to blend creativity and functionality in every project I undertake.
+### 👋 Hi, I'm JDDAR
 
-  - 🎨 **Creative at Heart:** Immersed in music, exploring new art forms, and engaging in various  sports to stay balanced and inspire my work
+I'm a passionate Front-End Developer currently pursuing studies in Software Analysis and Development. My journey in the tech world is driven by a combination of creativity, logic, and a relentless pursuit of knowledge.
 
+- 🎨 **Creative Explorer**: Outside of coding, I indulge in music, art, and sports. These interests not only refresh my mind but also inspire my approach to problem-solving and design.
+- 📚 **Dedicated Learner**: I am committed to continuous learning, always on the lookout for new resources and opportunities to enhance my skills. Whether through formal education or self-study, I aim to stay ahead in the ever-evolving tech landscape.
+- 🛠️ **Problem Solver**: I thrive on finding efficient solutions to complex problems. My resourcefulness and dedication help me navigate challenges and deliver high-quality results.
 
-  - 📚 **Lifelong Learner:** Constantly seeking new knowledge and skills to enhance my development toolkit. Belief in the power of continuous improvement
-
-  - 💡 **Problem Solver:** Excel at finding innovative solutions and leveraging available resources to         overcome challenges. Goal is to become an outstanding programmer, capable of creating impactful         and efficient software solutions
-
-Feel free to connect with me to discuss potential collaborations, share insights, or just talk about tech, music, and more!
+My ultimate goal is to become a top-tier programmer, contributing meaningfully to projects and the broader tech community. I'm always open to collaborations, discussions, and new connections. Let's create something amazing together!
 
 ## Estadísticas de GitHub
 
