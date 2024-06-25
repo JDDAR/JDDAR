@@ -42,7 +42,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-![Coding GIF](https://raw.githubusercontent.com/JDDAR/JDDAR/blob/main/BannerGIT001.gif)
+![](https://raw.githubusercontent.com/JDDAR/JDDAR/blob/main/BannerGIT001.gif)
 
 
 ### 👋 Hi, I'm JDDAR
