@@ -41,6 +41,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+![Coding GIF](https://raw.githubusercontent.com/JDDAR/JDDAR/blob/main/BannerV01.gif)
+
 
 ### 👋 Hi, I'm JDDAR
 
