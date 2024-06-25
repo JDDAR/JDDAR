@@ -13,7 +13,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
-
+---
 ### 👋 Hi, I'm JDDAR
 
 I’m a dedicated Front-End Developer currently studying Software Analysis and Development. My passion for coding is driven by a deep appreciation for both the artistic and logical aspects of programming. I strive to blend creativity and functionality in every project I undertake.
@@ -22,10 +22,13 @@ I’m a dedicated Front-End Developer currently studying Software Analysis and D
 - 📚 **Lifelong Learner**: I'm constantly seeking new knowledge and skills to enhance my development toolkit. Whether it's through formal education or self-directed learning, I believe in the power of continuous improvement.
 - 💡 **Problem Solver**: I excel at finding innovative solutions and leveraging available resources to overcome challenges. My goal is to become an outstanding programmer, capable of creating impactful and efficient software solutions.
 
+<p style='padding: 15px; border:0.1px solid yellow; border-radius:6px; text-align: center ; ' >
 Feel free to connect with me to discuss potential collaborations, share insights, or just talk about tech, music, and more!
+</p>
 
+---
 
-## Estadísticas de GitHub
+### Estadísticas de GitHub
 
 ![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JDDAR&layout=compact&theme=radical)
 
