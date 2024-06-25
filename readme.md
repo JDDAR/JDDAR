@@ -44,13 +44,14 @@
 
 ### 👋 Hi, I'm JDDAR
 
-I'm a passionate Front-End Developer currently pursuing studies in Software Analysis and Development. My journey in the tech world is driven by a combination of creativity, logic, and a relentless pursuit of knowledge.
+I’m a dedicated Front-End Developer currently studying Software Analysis and Development. My passion for coding is driven by a deep appreciation for both the artistic and logical aspects of programming. I strive to blend creativity and functionality in every project I undertake.
 
-- 🎨 **Creative Explorer**: Outside of coding, I indulge in music, art, and sports. These interests not only refresh my mind but also inspire my approach to problem-solving and design.
-- 📚 **Dedicated Learner**: I am committed to continuous learning, always on the lookout for new resources and opportunities to enhance my skills. Whether through formal education or self-study, I aim to stay ahead in the ever-evolving tech landscape.
-- 🛠️ **Problem Solver**: I thrive on finding efficient solutions to complex problems. My resourcefulness and dedication help me navigate challenges and deliver high-quality results.
+- 🎨 **Creative at Heart**: When I'm not coding, you can find me immersed in music, exploring new art forms, or engaging in various sports. These hobbies keep me balanced and inspire my work.
+- 📚 **Lifelong Learner**: I'm constantly seeking new knowledge and skills to enhance my development toolkit. Whether it's through formal education or self-directed learning, I believe in the power of continuous improvement.
+- 💡 **Problem Solver**: I excel at finding innovative solutions and leveraging available resources to overcome challenges. My goal is to become an outstanding programmer, capable of creating impactful and efficient software solutions.
 
-My ultimate goal is to become a top-tier programmer, contributing meaningfully to projects and the broader tech community. I'm always open to collaborations, discussions, and new connections. Let's create something amazing together!
+Feel free to connect with me to discuss potential collaborations, share insights, or just talk about tech, music, and more!
+
 
 ## Estadísticas de GitHub
 
