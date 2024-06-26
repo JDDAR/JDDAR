@@ -1,4 +1,4 @@
-<section style="padding: 35px; border: 1px solid; font-family: 'Fragment Mono', monospace; ">
+<div style="padding: 35px; border: 1px solid; font-family: 'Fragment Mono', monospace; ">
 
 ![Coding GIF](https://raw.githubusercontent.com/JDDAR/JDDAR/main/BannerGIT001.gif)
 
@@ -13,18 +13,16 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
----
-### 👋 Hi, I'm JDDAR
+👋 Hi, I'm Jose Daniel
+I'm a Front-End Developer currently studying Software Analysis and Development. Passionate about blending creativity and logic in every project.
 
-I’m a dedicated Front-End Developer currently studying Software Analysis and Development. My passion for coding is driven by a deep appreciation for both the artistic and logical aspects of programming. I strive to blend creativity and functionality in every project I undertake.
+- 🎨 Outside coding, I enjoy music, art, and sports which inspire my work.
+- 📚 Constantly seeking new knowledge and skills for continuous improvement.
+- 💡 Focused on finding innovative solutions to complex problems.
 
-- 🎨 **Creative at Heart**: When I'm not coding, you can find me immersed in music, exploring new art forms, or engaging in various sports. These hobbies keep me balanced and inspire my work.
-- 📚 **Lifelong Learner**: I'm constantly seeking new knowledge and skills to enhance my development toolkit. Whether it's through formal education or self-directed learning, I believe in the power of continuous improvement.
-- 💡 **Problem Solver**: I excel at finding innovative solutions and leveraging available resources to overcome challenges. My goal is to become an outstanding programmer, capable of creating impactful and efficient software solutions.
+Connect with me for collaborations, insights, or just to talk about tech and more!
 
-<p style='padding: 15px; border:0.1px solid yellow; border-radius:6px; text-align: center ; ' >
-Feel free to connect with me to discuss potential collaborations, share insights, or just talk about tech, music, and more!
-</p>
+[LinkedIn](https://www.linkedin.com/in/tuperfil) | [Portfolio](https://tuportafolio.com)
 
 ---
 
@@ -32,4 +30,4 @@ Feel free to connect with me to discuss potential collaborations, share insights
 
 ![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JDDAR&layout=compact&theme=radical)
 
-</section>
+</div>
