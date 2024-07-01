@@ -26,8 +26,5 @@ Connect with me for collaborations, insights, or just to talk about tech and mor
 
 ---
 
-### Estadísticas de GitHub
-
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JDDAR&layout=compact&theme=radical)
 
 </div>
