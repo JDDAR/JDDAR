@@ -22,9 +22,6 @@ I'm a Front-End Developer currently studying Software Analysis and Development. 
 
 Connect with me for collaborations, insights, or just to talk about tech and more!
 
-[LinkedIn](https://www.linkedin.com/in/tuperfil) | [Portfolio](https://tuportafolio.com)
-
----
-
+[LinkedIn](https://www.linkedin.com/in/tuperfil) | [Mis_Proyectos]([https://tuportafolio.com](https://jddar.github.io/MyProjects/))
 
 </div>
