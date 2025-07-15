@@ -1,7 +1,5 @@
 <div style="padding: 35px; border: 1px solid; font-family: 'Fragment Mono', monospace; ">
 
-![Coding GIF](https://raw.githubusercontent.com/JDDAR/JDDAR/main/BannerGIT001.gif)
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
