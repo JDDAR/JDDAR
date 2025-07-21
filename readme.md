@@ -11,15 +11,4 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
-👋 Hi, I'm Jose Daniel
-I'm a Front-End Developer currently studying Software Analysis and Development. Passionate about blending creativity and logic in every project.
-
-- 🎨 Outside coding, I enjoy music, art, and sports which inspire my work.
-- 📚 Constantly seeking new knowledge and skills for continuous improvement.
-- 💡 Focused on finding innovative solutions to complex problems.
-
-Connect with me for collaborations, insights, or just to talk about tech and more!
-
-[LinkedIn](https://www.linkedin.com/in/tuperfil) | [MisProyectos](https://jddar.github.io/MyProjects/)
-
 </div>
